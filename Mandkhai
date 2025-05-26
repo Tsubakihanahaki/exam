@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>9a O.Mandkhai-iin dasgal</title>
+</head>
+<style>
+.class{
+text-align: center;
+background-color: black;
+color: aliceblue;
+margin-left: 40px;
+margin-right: 40px;
+}
+.a{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+</style>
+<body style="background-color: bisque;">
+    <h1 class="class">9A Mandkhai.O</h1>
+    Student profile
+
+<img src="https://beyondfrosting.com/wp-content/uploads/2019/03/Chewy-Chocolate-Chip-Cookies-139-2.jpg" class="a">
+
+</body>
